@@ -22,31 +22,10 @@ La page "À propos" présente l'Ikigai, la taxonomie du blog et le choix du gén
 - **GitHub Pages** + GitHub Actions (déploiement automatique)
 - Contenu en **Markdown**
 
-## Commandes
-
-```bash
-# Serveur de dev (avec drafts)
-hugo server -D
-
-# Build production
-hugo --minify
-
-# Nouveau post
-hugo new articles/mon-article.md
-```
-
-## Structure
-
-```
-content/
-├── articles/    # Articles de veille
-└── about.md     # Page À propos
-```
-
 ## Auteur
 
 **Jonathan Pinard**
 Étudiant en Ingénierie des Médias (HEIG-VD)
 
 - GitHub : [@k-sel](https://github.com/k-sel)
-- LinkedIn : [jonathan-music](https://linkedin.com/in/jonathan-music)
+- LinkedIn : [jonathan-music](https://linkedin.com/in/jonathanpnrd)
